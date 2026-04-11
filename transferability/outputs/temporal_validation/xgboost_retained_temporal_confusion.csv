@@ -1,0 +1,4 @@
+model_name,train_years,test_year,true_negatives,false_positives,false_negatives,true_positives,predicted_positive_rate
+xgboost_retained,2022,2023,2539,1782,867,1999,0.5260887713927925
+xgboost_retained,"2022,2023",2024,2599,1851,710,2470,0.5663171690694626
+xgboost_retained,"2022,2023,2024",2025,3079,1334,763,2728,0.513917004048583

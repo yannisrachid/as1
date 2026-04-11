@@ -1,0 +1,61 @@
+feature_name,importance
+main_position_Unknown,0.10165006
+citizenship_focus_group_Unknown,0.08035969
+age_at_window,0.043768656
+was_last_move_loan,0.033924628
+age_band_u21,0.032196626
+contract_expiry_bucket_latest_2_plus_years,0.025994284
+competition_previous_market_move_rate,0.02176523
+nb_loans_before_window,0.020997219
+main_position_Attack,0.018172508
+primary_competition_is_lower_division,0.018042443
+competition_tier_proxy,0.015639132
+is_french_spanish_portuguese,0.013884044
+team_season_player_count,0.013799654
+was_last_move_transfer,0.012531155
+citizenship_focus_group_France_Spain_Portugal,0.011668566
+team_season_competition_count,0.009925941
+primary_competition_name_Belarusian Cup,0.009817075
+performance_boost_score,0.008900262
+primary_competition_name_Svenska Cupen,0.008586434
+days_to_contract_expiry_latest,0.008534728
+team_two_year_market_move_rate,0.008337248
+bench_appearance_share,0.007859554
+minutes_played,0.007742815
+primary_team_name_Athletic Bilbao,0.0072184526
+national_caps_last_365_days,0.0071988837
+nb_transfers_before_window,0.0071083615
+total_games_missed_last_365_days,0.007100084
+total_injury_days_last_365_days,0.0069912947
+matches_played,0.0069888933
+nb_national_records_before_window,0.0069785635
+tier_previous_market_move_rate,0.006613319
+is_eu,0.006391273
+days_since_last_move,0.0063470444
+nb_market_moves_before_window,0.006179342
+primary_competition_name_Serie D - D,0.0061770473
+primary_competition_name_Serie C-A,0.006110646
+primary_competition_name_Primera Federación - Gr. II,0.0060769087
+moved_in_last_365_days,0.0060057268
+had_severe_injury_last_365_days,0.005898507
+primary_competition_name_Stars League,0.0058980095
+team_previous_market_move_rate,0.0058652908
+matches_in_squad,0.005825829
+primary_competition_name_Liga Portugal,0.0056186537
+primary_competition_name_Super League 1,0.005588809
+primary_competition_name_Fortuna Liga,0.0055822227
+primary_competition_name_Serie A,0.005450318
+competition_previous_top5_export_rate,0.0054255137
+primary_competition_name_Primera Federación - Gr. I,0.0053584916
+nb_destination_teams_before_window,0.0053364937
+primary_team_name_Brighton & Hove Albion,0.0053097326
+primary_competition_name_UECL Quali,0.0053006173
+contract_expiry_bucket_latest_1_to_2_years,0.005160573
+loan_relaunch_profile,0.0051251776
+competition_previous_market_move_count,0.005124663
+team_previous_market_move_count,0.0050984034
+primary_competition_name_Under 18,0.0050452347
+citizenship_focus_group_Brazil_Argentina,0.00495757
+primary_competition_name_U18 Premier League,0.004898134
+primary_competition_name_Süper Lig,0.0048579834
+primary_competition_name_Primavera 1,0.0048023663

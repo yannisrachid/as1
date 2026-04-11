@@ -1,0 +1,61 @@
+feature_name,importance
+main_position_Unknown,0.10585817
+citizenship_focus_group_Unknown,0.08428029
+age_at_window,0.03183431
+age_band_u21,0.03021115
+was_last_move_loan,0.029194556
+primary_competition_is_lower_division,0.018408984
+nb_loans_before_window,0.016701665
+competition_previous_market_move_rate,0.015422741
+main_position_Attack,0.0144287795
+was_last_move_transfer,0.011669077
+citizenship_focus_group_France_Spain_Portugal,0.011652363
+competition_tier_proxy,0.011538142
+is_french_spanish_portuguese,0.010779128
+team_season_player_count,0.0107005155
+primary_competition_name_Belarusian Cup,0.009280604
+had_severe_injury_last_365_days,0.008697952
+has_contract_expiry_latest,0.008380295
+primary_competition_name_Svenska Cupen,0.008048606
+team_season_competition_count,0.007599535
+primary_competition_name_Bundesliga,0.0068199537
+nb_market_moves_before_window,0.0067737796
+team_two_year_market_move_rate,0.0067003155
+days_to_contract_expiry_latest,0.006609707
+primary_competition_name_Primavera 1,0.0063393735
+primary_competition_name_Premiership,0.0062979204
+bench_appearance_share,0.0062659634
+nb_transfers_before_window,0.006251257
+total_injury_days_last_365_days,0.0061267735
+national_caps_last_365_days,0.006009061
+minutes_played,0.0058512115
+primary_team_name_Athletic Bilbao,0.0056060054
+matches_played,0.0055902656
+primary_competition_name_Serie D - D,0.005546158
+primary_competition_name_Regionalliga Nord,0.005515249
+total_games_missed_last_365_days,0.0054093506
+citizenship_focus_group_Other,0.0053915493
+primary_team_name_CA Osasuna,0.0053391606
+matches_in_squad,0.005295196
+primary_competition_name_Serie A,0.0052807187
+days_since_last_move,0.005276779
+team_previous_market_move_rate,0.0052117007
+nb_national_records_before_window,0.005188444
+primary_competition_name_Süper Lig,0.005139698
+tier_previous_market_move_rate,0.0051235897
+primary_team_name_Brighton & Hove Albion,0.0051066554
+moved_in_last_365_days,0.005098657
+team_previous_market_move_count,0.005098577
+primary_competition_name_UECL Quali,0.0050359336
+primary_competition_name_Stars League,0.005001954
+primary_competition_name_Primera Federación - Gr. I,0.0050015943
+nb_destination_teams_before_window,0.0049799504
+primary_competition_name_Fortuna Liga,0.0049480693
+primary_competition_name_Segunda Federación - Gr. II,0.004904464
+primary_competition_name_Segunda Federación - Gr. III,0.0048853783
+primary_competition_name_Serie D - H,0.004859532
+competition_previous_market_move_count,0.004822305
+contract_expiry_bucket_latest_2_plus_years,0.0048054247
+primary_competition_name_Premier League,0.0047925184
+performance_boost_score,0.0047559943
+primary_competition_name_2ª División,0.004740341

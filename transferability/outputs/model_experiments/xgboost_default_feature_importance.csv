@@ -1,0 +1,61 @@
+feature_name,importance
+citizenship_focus_group_Unknown,0.21463016
+main_position_Unknown,0.07622743
+was_last_move_loan,0.018778818
+age_band_u21,0.013999671
+age_at_window,0.011659975
+nb_loans_before_window,0.008796788
+was_last_move_transfer,0.006988909
+primary_competition_name_Belarusian Cup,0.0067593777
+main_position_Attack,0.006449445
+competition_previous_market_move_rate,0.006432199
+is_eu,0.006364849
+is_french_spanish_portuguese,0.006176269
+primary_competition_name_Svenska Cupen,0.006141316
+competition_tier_proxy,0.0058607752
+team_season_player_count,0.0054904646
+primary_team_name_Bahlinger SC,0.005236372
+moved_in_last_365_days,0.0052227206
+primary_team_name_Brighton & Hove Albion,0.0046275132
+primary_competition_name_NB I.,0.004509273
+primary_competition_name_UEFA Youth League,0.0044756
+primary_competition_name_Super League 1,0.00443691
+nb_market_moves_before_window,0.0043755854
+primary_competition_name_Segunda Federación - Gr. I,0.004219452
+primary_competition_name_Primera Federación - Gr. I,0.0042148503
+primary_competition_name_Bundesliga,0.00419107
+contract_expiring_within_2_years_latest,0.0041839997
+days_since_last_move,0.0038658385
+days_to_contract_expiry_latest,0.0038312913
+primary_competition_name_Serie A,0.0038272517
+primary_competition_name_Premier Liga,0.0038079477
+primary_team_name_AC Virtus Acquaviva,0.00379733
+team_season_competition_count,0.0037792525
+citizenship_focus_group_France_Spain_Portugal,0.0037724003
+primary_team_name_Athletic Bilbao,0.003640176
+competition_is_top5_export_market,0.003634876
+team_two_year_market_move_rate,0.0036321762
+primary_team_name_US Alessandria Calcio 1912,0.003630601
+primary_competition_name_Serie D - D,0.0036274658
+primary_competition_name_UECL Quali,0.0036206224
+total_injury_days_last_365_days,0.0036095113
+primary_team_name_CA Osasuna,0.0035978062
+primary_competition_name_Regionalliga Südwest,0.0035308828
+primary_competition_is_lower_division,0.003525972
+primary_competition_name_Liga Portugal,0.0034686886
+minutes_played,0.0034668392
+team_previous_market_move_rate,0.0034657426
+main_position_Goalkeeper,0.003456039
+nb_destination_teams_before_window,0.0034256577
+primary_competition_name_Saudi Pro League,0.0034033654
+primary_team_name_AZ Alkmaar U18,0.0033969095
+primary_competition_name_Primavera 1,0.00339016
+primary_competition_name_Segunda Federación - Gr. II,0.0033706748
+nb_transfers_before_window,0.0033272915
+bench_appearance_share,0.0033244216
+primary_competition_name_Premier League 2,0.0033144986
+citizenship_focus_group_Other,0.0032916758
+has_contract_expiry_latest,0.0032911114
+tier_previous_market_move_rate,0.003284694
+matches_in_squad,0.0032823302
+primary_competition_name_Premier League,0.0032540394
